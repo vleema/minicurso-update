@@ -22,6 +22,7 @@ require('lazy').setup({
   require 'plugins.telescope',
   require 'plugins.theme',
   require 'plugins.treesitter',
+  require 'plugins.vimbegood',
   require 'plugins.which-key',
 }, {
   ui = {
