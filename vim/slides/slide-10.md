@@ -6,5 +6,14 @@
   │╚██████╔╝██║     ███████╗██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║███████║│
   │ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝│
   └───────────────────────────────────────────────────────────────────────────┘
-"não fazem sentido sozinhos"
-d, c, y, p, f
+                     ⦿  Não fazem muito sentido sozinhos ⦿  
+
+                           d    c    y    f    "p"
+----------------------------------------------------------------------------------
+                        Head, shoulders, knees and toes
+                        Knees and toes!
+                        Head, shoulders, knees and toes
+                        Knees and toes and 
+                        Eyes and ears and mouth and nose,
+                        Head, shoulders, knees and toes
+                        Knees and toes!

@@ -7,12 +7,12 @@
 │╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝│
 └────────────────────────────────────────────────────────────────────────────────┘
 
-     ⦿  Digitar corretamente(motions)                  ⦿  O processo
+     ⦿  Digitar corretamente(motions)               ⦿  O processo
 
-     ⦿  Altamente customizável(editor)                    ⦾  Aprender a ler 
-                                                             manuais e readmes
+     ⦿  Altamente customizável(editor)                 ⦾  Aprender a ler 
+                                                          manuais e readmes
      ⦿  Aumento substancial de produtividade(ambos)
-                                                          ⦾  Praticar o inglês  
+                                                       ⦾  Praticar o inglês  
      ⦿  Aplicações em outros editores(motions)
                                                                 
        

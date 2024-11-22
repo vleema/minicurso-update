@@ -6,15 +6,14 @@
             │╚██████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝╚██████╔╝███████║│
             │ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝  ╚═════╝ ╚══════╝│
             └─────────────────────────────────────────────────────┘
+                  ⦿  Operator + [quantificador] + Motion 
 
-operator quantificador motion
-
-letras podem representar coisas diferentes
-a depender de onde se encontram
-
-dw
-diw
-
-caw
-di{
-
+                  ⦿  Letras representam ações diferentes 
+                       ⦾ dw  - delete word 
+                       ⦾ diW - delete INSIDE *WORD*
+                       ⦾ ca( - chance AROUND word | ver isso daqui
+                       ⦾ di{ - delete INSIDE word
+----------------------------------------------------------------------------------
+public static void main(Str[] args) {
+  System.out.println ("Hello World");
+}                                   
