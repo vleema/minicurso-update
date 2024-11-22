@@ -1,0 +1,5 @@
+ressalvas
+
+android
+java
+jogos

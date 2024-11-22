@@ -11,9 +11,9 @@
                   ⦿  Letras representam ações diferentes 
                        ⦾ dw  - delete word 
                        ⦾ diW - delete INSIDE *WORD*
-                       ⦾ ca( - chance AROUND word | ver isso daqui
+                       ⦾ ct( - chance unTIL parentesis
                        ⦾ di{ - delete INSIDE word
 ----------------------------------------------------------------------------------
 public static void main(Str[] args) {
-  System.out.println ("Hello World");
+  System.out.println("Hello World");
 }                                   
