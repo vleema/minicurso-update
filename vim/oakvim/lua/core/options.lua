@@ -17,6 +17,7 @@ vim.opt.undofile = true
 
 vim.opt.ignorecase = true
 vim.opt.smartcase = true
+vim.opt.termguicolors = true
 
 vim.opt.signcolumn = 'yes'
 vim.opt.updatetime = 250

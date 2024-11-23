@@ -3,28 +3,13 @@ require 'core.options'
 require 'core.lazy'
 
 -- Automatically folds
-vim.api.nvim_create_autocmd({ 'BufRead', 'BufNewFile' }, {
-  pattern = '*',
-  command = 'set foldmethod=indent',
-})
-
+-- vim.api.nvim_create_autocmd({ 'BufRead', 'BufNewFile' }, {
+--   pattern = '*',
+--   command = 'set foldmethod=indent',
+-- })
+--
 -- Here is where you require your plugins.
-require('lazy').setup({
-  require 'plugins.alpha',
-  require 'plugins.autocomplete',
-  require 'plugins.autopairs',
-  require 'plugins.conform',
-  require 'plugins.gitsigns',
-  require 'plugins.lazyvim',
-  require 'plugins.lspconfig',
-  require 'plugins.mini',
-  require 'plugins.neo-tree',
-  require 'plugins.telescope',
-  require 'plugins.theme',
-  require 'plugins.treesitter',
-  require 'plugins.vimbegood',
-  require 'plugins.which-key',
-}, {
+require('lazy').setup({}, {
   ui = {
     -- If you're not seeing what's inside the quotation marks
     -- you might need to install a nerd font(JetBrains Mono is the most common)
