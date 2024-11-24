@@ -30,6 +30,7 @@ return { -- Autoformat
         lsp_format = lsp_format_opt,
       }
     end,
+    -- Here is where you add the formatters
     formatters_by_ft = {
       lua = { 'stylua' },
       c = { 'clang_format' },

@@ -1,13 +1,6 @@
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '
 
--- tabs
--- vim.keymap.set('n', '<leader>to', '<cmd>tabnew<CR>', { desc = 'Open new tab' })
--- vim.keymap.set('n', '<leader>tx', '<cmd>tabclose<CR>', { desc = 'Close current tab' })
--- vim.keymap.set('n', '<tab>', '<cmd>tabn<CR>', { desc = 'Go to next tab' })
--- vim.keymap.set('n', '<leader>tp', '<cmd>tabp<CR>', { desc = 'Go to previous tab' })
--- vim.keymap.set('n', '<leader>ts', '<cmd>tabnew %<CR>', { desc = 'Open same file on other buffer' })
-
 -- anti-cheat
 vim.keymap.set('n', '<left>', '<cmd>echo "Use h to move!!"<CR>')
 vim.keymap.set('n', '<right>', '<cmd>echo "Use l to move!!"<CR>')

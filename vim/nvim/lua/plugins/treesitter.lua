@@ -3,6 +3,7 @@ return { -- Highlight, edit, and navigate code
   build = ':TSUpdate',
   main = 'nvim-treesitter.configs', -- Sets main module to use for opts
   opts = {
+    -- Here is where you add the languages, :TSInstallInfo for se the ones available
     ensure_installed = {
       'bash',
       'c',
