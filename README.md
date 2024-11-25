@@ -10,6 +10,9 @@ Ao longo dos dois dias deste curso, abordaremos o básico do terminal Linux, sua
 
 Para praticarem o que viram no curso, refiram-se à [Exercícios.md](./Exercícios.md) para atividades envolvendo o Shell e o sistema operacional. Refira-se à [vim](./vim/) para seus respectivos exercícios, distribuição pronta para o _neovim_ e material usando nas aulas.
 
+> [!NOTE]
+> Para ajudar nos exercícios, sinta-se a vontade para usar o [cheatsheet.md](./cheatsheet.md)
+
 ### Para ir além
 
 #### Linux
