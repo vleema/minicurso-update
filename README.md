@@ -4,7 +4,7 @@ Sabemos que muitos de vocês se sentem como se estivessem "caindo de paraquedas"
 
 Queremos compartilhar nossa solução: Linux, Vim e Emacs.
 
-Ao longo dos dois dias deste curso, abordaremos o básico do terminal Linux, suas utilidades para o dia a dia, e como montar um ambiente de programação que seja poderoso, estável e, acima de tudo, sob seu controle. Esperamos que, ao final do curso, você se sinta mais preparado e empoderado para tomar as rédeas do seu desenvolvimento, com menos frustrações e mais compreensão sobre cada aspecto do seu ambiente de trabalho.
+Ao longo dos dois momentos deste curso, abordaremos o básico do terminal Linux, suas utilidades para o dia a dia, e como montar um ambiente de programação que seja poderoso, estável e, acima de tudo, sob seu controle. Esperamos que, ao final do curso, você se sinta mais preparado e empoderado para tomar as rédeas do seu desenvolvimento, com menos frustrações e mais compreensão sobre cada aspecto do seu ambiente de trabalho.
 
 ## Material
 
