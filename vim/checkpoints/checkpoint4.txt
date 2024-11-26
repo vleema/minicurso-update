@@ -1,0 +1,23 @@
+Checkpoint #4
+
+Seta horizontal - Significa onde você deve começar
+Seta vertical - Significa onde você deve terminar
+
+- Combe motions e resolva
+
+---------------------------------------------------------------
+Apague a palavra em que começou e se mova até o final indicado
+
+Olá mun🡒do
+ 🡑 
+---------------------------------------------------------------
+Copie a palavra na qual você está dentro
+
+Olá mun🡒do
+ 🡑 
+---------------------------------------------------------------
+Num ninho de mafagafos há 🡒sete mafagafinhos.
+                                      🡑
+---------------------------------------------------------------
+Num ninho de mafagafos há sete mafagafinhos.🡐
+                   🡑

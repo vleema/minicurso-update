@@ -6,17 +6,17 @@
                    │╚██████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝╚██████╔╝███████║│
                    │ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝  ╚═════╝ ╚══════╝│
                    └─────────────────────────────────────────────────────┘
-                    ⦿ Checkpoint #5
+                    ⦿ Checkpoint #4
 
                          ⦿  Operador + [quantificador] + Motion ⦿ 
 
                          ⦿  Letras representam ações diferentes ⦿ 
                               ⦾ dw  - delete word 
-                              ⦾ 3ce - delete word 
+                              ⦾ 3ce - 3 change word 
                               ⦾ diW - delete INSIDE *WORD*
                               ⦾ 3fi - find third "i" 
                               ⦾ ct( - chance unTIL parentesis
---------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------ 
 
                            public static void main(Str[] args) {
                               System.out.println("Hello World");

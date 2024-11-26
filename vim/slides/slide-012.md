@@ -6,7 +6,7 @@
                       │ ╚████╔╝ ██║███████║╚██████╔╝██║  ██║███████╗│
                       │  ╚═══╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝│
                       └─────────────────────────────────────────────┘
-               ⦿ Checkpoint #6
+               ⦿ Checkpoint #5
 
                                      |      The wheels on the bus go round and round
                ⦿  Visual             |      Round and round, round and round
@@ -18,4 +18,4 @@
                ⦿  Visual block       |      Open and shut, open and shut
                                      |      The door on the bus goes open and shut
                                      |      Open and shut
-                                     |      All through the town
+                                     |      All through the town                    

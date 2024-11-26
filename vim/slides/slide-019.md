@@ -13,8 +13,6 @@
 
                                         ⦿ Post-it  ⦿ 
 
-                                   ⦿ Plugins de motions ⦿ 
-
                                ⦿ NVChad, LunarVim, AstroVim ⦿ 
 
                                         ⦿ Kickstart ⦿ 

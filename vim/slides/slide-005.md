@@ -12,7 +12,7 @@
                                             |     Twinkle twinkle little star, 
              ⦿ :set relativenumber          |     How I wonder what you are,   
                                             |     Up above the world so high,  
-             ⦿ :%s/old/new                  |     Like a diamond in the sky,   
+             ⦿ :%s/old/new/g                |     Like a diamond in the sky,   
                                             |     Star light,                  
              ⦿ :start,ends/old/new          |     Star bright,                 
                                             |     The first star I see tonight,

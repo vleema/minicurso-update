@@ -1,0 +1,16 @@
+operators
+Checkpoint #3
+
+- Faça o que se pede, usando operadores
+
+-------------------------------------------------
+Me apague
+-------------------------------------------------
+Me apague e escreva algo depois
+-------------------------------------------------
+Repita o que fez na de cima usando outros motions
+-------------------------------------------------
+Me copie
+-------------------------------------------------
+E me cole aqui
+

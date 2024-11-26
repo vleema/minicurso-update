@@ -13,6 +13,7 @@
 
 #include <iostream>
 
+{
 void foo1(int bar) {
     std::cout << "bla" << std::endl;
 }

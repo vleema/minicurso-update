@@ -1,0 +1,18 @@
+Checkpoint #5
+
+- Use o visual mode e faça o que se pede
+
+---------------------------------------------------------
+Crie uma segunda função que recebe o conteúdo da primeira
+funcao1() {
+	blablablablabla
+	blebleblebleble
+}
+---------------------------------------------------------
+Copie o texto e cole do outro lado da barra
+
+Certa vez, um sábio recitou poema: |
+Rosas são vermelhas                |
+Violetas são azúis                 |
+E eu nunca mais vou usar windows   |
+Graças a Jesus                     |

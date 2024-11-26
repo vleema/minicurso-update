@@ -1,0 +1,26 @@
+word motions
+Checkpoint #2
+
+- Usando motions horizontais "de palavra" resolva o que
+for pedindo usando a menor quantidade de teclas possível
+
+Seta horizontal - Significa onde você deve começar
+Seta vertical - Significa onde você deve terminar
+
+----------------------------------------------------------
+🡒O rato roeu a roupa do rei de roma
+                          🡑 
+----------------------------------------------------------
+ O rato roeu a roupa do rei de roma🡐
+ 🡑
+----------------------------------------------------------
+ O rato roeu a roupa🡐do rei de roma
+    🡑
+----------------------------------------------------------
+🡒 O rato roeu a roupa🡐do rei de roma     
+                                       🡑
+----------------------------------------------------------
+   O rato roeu a roupa do rei de roma🡐
+🡑                     
+----------------------------------------------------------
+
