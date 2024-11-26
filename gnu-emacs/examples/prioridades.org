@@ -1,0 +1,11 @@
+#+title: Prioridades
+
+
+* Tarefas da semana
+
+** TODO [#A] Entrevista do passaporte
+** TODO [#A] Comprar a ração de Laika
+
+** TODO [#B] Fazer a feira da semana
+
+** TODO [#C] Conversar com Ana

@@ -1,0 +1,22 @@
+#+title: Tracking Progress
+
+
+* TODO Sprint 8
+
+** Task Nº 203
+
+*** TODO Atualizar seção de wiki do GitHub
+
+
+** Task Nº 207 [0/5]
+
+*** TODO Modelagem das entidades de Auth
+*** TODO Implementação dos serviços e endpoints de Auth
+*** TODO Desenvolvimento de protótipo de login
+*** TODO Implementação
+*** TODO Validação
+
+** Task Nº 209 [0%]
+
+- [ ] Implementar estrutura de internacionalização
+- [ ] Implementar tradução dos fluxos principais para Alemão

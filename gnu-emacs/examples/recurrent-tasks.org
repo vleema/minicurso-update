@@ -1,0 +1,23 @@
+#+title: Tarefas recorrente
+
+* Áreas
+
+** Estudos
+
+*** Aula online de Arquitetura de Computadores
+*** 5 questões no LeetCode
+
+** Financeiro
+
+*** Fatura do Banco do Brasil
+*** Pagar mensalidade da academia
+
+** Saúde
+
+*** Ir ao dentista
+*** Fazer checkup no clínico geral
+
+** Datas importantes
+
+*** Aniversário de Clarice
+*** Aniversário de namoro

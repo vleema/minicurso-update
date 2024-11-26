@@ -1,0 +1,77 @@
+
+#+title: Org overview
+#+author: Ângelo Barbosa
+#+email: angeloraphael1@hotmail.com
+#+date:<2024-11-19 ter>
+
+
+* Headings
+
+- Shifhting de headings/blocos (nível e ordem)
+- Folding
+- Listas
+- Checkboxes
+
+
+* todo itens
+
+** Status
+
+*** Transitando entre status
+*** Listando os status (C-c C-t)
+*** Status abertos/fechados
+
+
+
+
+** Status customizados
+** Prioridades
+** Org link
+** Marcando progresso :exemplo:
+** Agendamento e deadlines :exemplo:
+** Org Agenda
+** Tarefas recorrentes :exemplo:
+** Monitorando seus hábitos :exemplo:
+
+
+
+** Org-agenda :exemplos:
+
+*** Criando uma agenda semanal + não-agendados
+*** Criando uma agenda pela tag UFRN
+*** Criando uma com entradas não-tageadas
+*** Buscando tarefas por arquivo(s)
+*** Buscando tarefas por tag
+
+
+* Literate Programming
+
+* Org-export
+
+- ~pandoc~ exporta para .org !
+
+*** TODO Exportação para LaTeX
+*** TODO Exportação para PDF
+
+
+
+* Recomendações
+
+*** Manuais Oficiais
+
+- Emacs Manual
+
+- [[https://orgmode.org/org.pdf][The Org Manual]]
+
+- [[https://orgmode.org/orgguide.pdf][Org Mode Compact Guide]]
+
+- [[https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf][An Introduction to Programming in Emacs Lisp]]
+
+*** System crafters
+
+*** livros
+
+- [[https://www.oreilly.com/library/view/learning-gnu-emacs/0596006489/][Learning GNU Emacs]]
+
+
+* Registre suas horas!
