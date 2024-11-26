@@ -35,6 +35,10 @@ Para praticarem o que viram no curso, refiram-se à [Exercícios.md](./Exercíci
 
 - [**Emacs From Scratch - SystemCrafters**](https://www.youtube.com/watch?v=74zOY-vgkyw&list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ&index=1)
 - [**Doom emacs**](https://github.com/doomemacs/doomemacs)
+- [**Org Mode Compact Guide**](https://orgmode.org/orgguide.pdf)
+- [**GNU Emacs Manual**](https://www.gnu.org/software/emacs/manual/emacs.html)
+- [**An Introduction to Programming In Emacs Lisp**](https://www.gnu.org/software/emacs/manual/eintr.html)
+- [**Learning GNU Emacs**](https://www.gnu.org/software/emacs/manual/eintr.html)
 
 ---
 
